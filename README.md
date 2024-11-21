@@ -1,11 +1,14 @@
 # Snack-Squad-A-Customizable-Snack-Ordering-and-Delivery-App
 
-#SNACK APP DESIGNED BY PERUMAL @ SPKC
+#SNACK APP DESIGNED BY:
+     •SUDHARSAN R
+     •ARUL KARTHIKEYAN K
+     •HARI PRASATH G
+     •MOHAMED BILAL R
+     •REVIN KUMAR R
+ 
 
-Google Developer Link : https://g.dev/Perumalmahe2023
+Demo Video Link :https://drive.google.com/file/d/1H3X0iX1kkL_4HGDiDyyE6bvNdKP5K-Qb
  
-Demo Video Link : https://drive.google.com/file/d/1RvZa0X8scAo9ICTlv_BnOQEk_mvpvL1n/view?usp=drivesdk
- 
-YouTube link - https://youtu.be/T1QuGs9qWdk
  
 
