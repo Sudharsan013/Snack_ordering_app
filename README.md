@@ -1,6 +1,7 @@
 # Snack-Squad-A-Customizable-Snack-Ordering-and-Delivery-App
 
 #SNACK APP DESIGNED BY:
+     
      •SUDHARSAN R
      
      •ARUL KARTHIKEYAN K
