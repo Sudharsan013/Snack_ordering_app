@@ -2,9 +2,13 @@
 
 #SNACK APP DESIGNED BY:
      •SUDHARSAN R
+     
      •ARUL KARTHIKEYAN K
+     
      •HARI PRASATH G
+     
      •MOHAMED BILAL R
+     
      •REVIN KUMAR R
  
 
